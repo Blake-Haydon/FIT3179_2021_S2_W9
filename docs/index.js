@@ -9,8 +9,8 @@ var yourVlSpec = {
     layer: [
         {
             data: {
-                url: "https://raw.githubusercontent.com/KaneSec/vega_lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
-                format: { type: "topojson", feature: "ne_110m_admin_0_countries" }
+                url: "data/victoria.topo.json",
+                format: { type: "topojson", feature: "victoria" }
             },
             mark: {
                 type: "geoshape", color: "green", tooltip: "IM A TOOLTIP"
@@ -19,6 +19,7 @@ var yourVlSpec = {
         },
         {
             data: {
+                // USE LESS SITE DATA SO IT DOES NOT CRASH
                 url: "data/small_site.csv"
             },
             projection: { type: "equalEarth" },
