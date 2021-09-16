@@ -15,14 +15,14 @@ var yourVlSpec = {
             mark: {
                 type: "geoshape", color: "green", tooltip: "IM A TOOLTIP"
             },
-            projection: { type: 'equalEarth' },
+            projection: { type: 'mercator' },
         },
         {
             data: {
                 // USE LESS SITE DATA SO IT DOES NOT CRASH
-                url: "data/small_site.csv"
+                url: "data/victoria_site.csv"
             },
-            projection: { type: "equalEarth" },
+            projection: { type: "mercator" },
             mark: "circle",
             encoding: {
                 longitude: {
