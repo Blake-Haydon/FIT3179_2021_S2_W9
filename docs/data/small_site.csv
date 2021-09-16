@@ -1,0 +1,396 @@
+SITE_ID,LATITUDE,LONGITUDE,NAME,STATE,LICENSING_AREA_ID,POSTCODE,SITE_PRECISION,ELEVATION,HCIS_L2
+1000,-12.471947,130.845073,Fort Hill Wharf DARWIN,NT,4,0800,Unknown,,GO7H
+10000,-33.756158,150.698182,Cnr Castlereagh & Lethbri PENRITH,NSW,2,2750,Unknown,,MV9O
+10000002,-28.77766,114.63426,Optus 50m Lattice Tower 71 Eastward Road Utakarra,WA,4,,Within 10 metres,,AU3O
+10000003,-12.464597,130.840708,6 Knuckey Street Darwin,NT,4,,Within 10 metres,,GO7H
+10000004,-39.5964,143.9339,Cape Wickham Links Clubhouse KING ISLAND,TAS,5,,Within 100 metres,,KX8L
+10000006,-28.913583,153.320278,LPON02 1 Tucki Road TUCKI,NSW,4,,Within 10 metres,,NU3N
+10000007,-32.67373,152.183366,LPON06 Ocean Side Hotel 100 Booner Street HAWKS NEST,NSW,4,,Within 10 metres,,NV5I
+10000008,-33.554239,150.733037,LPON09 1057 Kurmond Road NORTH RICHMOND,NSW,2,,Within 10 metres,,MV9K
+10000009,-36.416261,143.611158,LPON15 90 High Street WEDDERBURN,VIC,4,,Within 10 metres,,KW8G
+10000010,-33.315074,115.726263,LPON19 Glen Huon Primary School 9 Monash Bvd EATON,WA,4,,Within 10 metres,,BV7G
+10000011,-33.307414,115.734614,LPON20 45 Millbridge Bvd MILLBRIDGE,WA,4,,Within 10 metres,,BV7G
+10000012,-33.357333,115.624897,LPON21 Bethanie Elanora 37 Hastie Street SOUTH BUNBURY,WA,4,,Within 10 metres,,BV7G
+10000013,-28.687008,153.523194,LPON 22 Foodworks Building 3/2-6 Byron Street BANGALOW,NSW,4,,Within 10 metres,,NU3K
+10000014,-31.540083,116.372957,LPON 27 Location 8392 Harders-Chitty Road TOODYAY,WA,4,,Within 10 metres,,BV2J
+10000015,-31.549951,116.453282,LPON 28 21 Hassell Close TOODYAY,WA,4,,Within 10 metres,,BV2J
+10000016,-33.831142,115.106278,LPON29 8 Webster Road COWARAMUP,WA,4,,Within 10 metres,,BV7M
+10000017,-33.629218,115.091635,LPON30 53 Yungarra Drive DUNSBOROUGH,WA,4,,Within 10 metres,,BV7I
+10000018,-27.806743,152.640874,LPON32 23 Willmotts Road HARRISVILLE,QLD,4,,Within 10 metres,,NT8O
+10000019,-23.358303,120.780766,LPON33 Talawana Track JIGALONG,WA,5,,Within 10 metres,,CS6H
+10000020,-28.074596,152.856728,LPON34 14-18 Brooks Drive KOORALBYN,QLD,4,,Within 10 metres,,NU2D
+10000021,-33.864266,121.877509,LPON38 Esperance Christian School 2 Blake Street ESPERANCE,WA,5,,Within 10 metres,,DV7P
+10000022,-37.814712,144.974322,17 Spring St MELBOURNE,VIC,2,3000,Within 10 metres,,KX3P
+10000023,-37.65123,144.959774,183-187 Northbourne Rd Campbellfield,VIC,2,,Within 10 metres,,KX3L
+10000024,-38.229606,146.414233,85 Vincent Road Morwell,VIC,4,,Within 10 metres,,LX5B
+10000025,-38.195525,146.561853,Glenview Park McNairn Road Traralgon,VIC,4,,Within 10 metres,,LX5C
+10000026,-33.7187,150.8341,Dulux Store Harris Avenue MARSDEN PARK,NSW,2,,Within 10 metres,,MV9L
+10000027,-37.8109,144.9371,Costco Docklands 381-383 Footscray Road DOCKLANDS,VIC,2,,Within 10 metres,,KX3P
+10000028,-37.916514,145.038261,14-18 Bent Street BENTLEIGH,VIC,2,,Within 10 metres,,LX1M
+10000029,-33.7876,150.8815,27 Holbeche Road ARNDELL PARK,NSW,2,,Within 10 metres,,MV9P
+10000030,-37.9192,145.3463,Belgrave Heights Christian School Wattle Valley Road BELGRAVE,VIC,2,,Within 10 metres,,LX1N
+10000031,-37.6905,145.0248,319 Settlement Road THOMASTOWN,VIC,2,,Within 10 metres,,LX1I
+10000032,-33.947875,150.899139,VHA Rooftop Site Casula Mall Cnr Ingham Dr and Kurrajong Rd CASULA,NSW,2,,Within 10 metres,,MV9P
+10000033,-37.574405,144.92044,VHA Rooftop Site Craigieburn Central 306/330-332 Grand Blvd CRAIGIEBURN,VIC,2,,Within 10 metres,,KX3L
+10000034,-33.861242,151.208261,cnr George & Alfred Streets SYDNEY,NSW,2,,Within 10 metres,,NV7M
+10000035,-33.86904,151.20695,Smart Pole 367 George Street SYDNEY,NSW,2,,Within 10 metres,,NV7M
+10000036,-33.879819,151.205344,cnr George and Hay Streets SYDNEY,NSW,2,,Within 10 metres,,NV7M
+10000037,-33.885622,151.206908,Ibero-American Plaza Chalmers Street SURRY HILLS,NSW,2,,Within 10 metres,,NV7M
+10000038,-33.889967,151.217889,Moore Park Tunnel West South Dowling Street MOORE PARK,NSW,2,,Within 10 metres,,NV7M
+10000039,-33.907164,151.226875,Randwick Depot TPS off Alison Road RANDWICK,NSW,2,,Within 10 metres,,NV7M
+10000041,-33.915572,151.225783,UNSW opposite NIDA Anzac Parade KENSINGTON,NSW,2,,Within 10 metres,,NV7M
+10000042,-33.925697,151.230031,cnr Anzac Parade and Sturt Street KINGSFORD,NSW,2,,Within 10 metres,,NV7M
+10000043,-33.874048,151.164996,Lilyfield Light Rail Stop cnr City Link West and Catherine Street LILYFIELD,NSW,2,,Within 10 metres,,NV7M
+10000044,-33.879589,151.14725,Hawthorne Light Rail Station off Hawthorne Parade HABERFIELD,NSW,2,,Within 10 metres,,NV7M
+10000045,-33.889294,151.145194,Taverners Hill Light Rail Station off Hathern Street LEICHHARDT,NSW,2,,Within 10 metres,,NV7M
+10000046,-33.910111,151.234939,Randwick Racecourse TPS Alison Road RANDWICK,NSW,2,,Within 10 metres,,NV7M
+10000047,-37.857886,144.789906,SCT Logistics 7 Westlink Court ALTONA,VIC,2,,Within 10 metres,,KX3P
+10000048,-37.805036,144.932034,Dynon Rollingstock Maintenance Facility Gate K Dynon Road WEST MELBOURNE,VIC,2,,Within 10 metres,,KX3P
+10000049,-37.416821,145.005337,Wallan Station Station Street WALLAN EAST,VIC,2,,Within 10 metres,,LX1E
+10000050,-38.103396,147.054383,Sale Station Pettit Drive SALE,VIC,4,,Within 10 metres,,LX6A
+10000051,-30.775337,121.441999,GCS Communications Tower Rear 39 Great Eastern Highway KALGOORLIE,WA,5,,Within 10 metres,,DU7N
+10000052,-12.630833,141.880833,Works Depot Boundary Rd Weipa,QLD,5,,Within 10 metres,,JO9L
+10000054,-31.955191,115.876073,Construction Crane 17 Wickham Street  EAST PERTH,WA,3,,Within 10 metres,,BV1P
+10000055,-31.933208,115.866616,Tower Crane 570 William Street MT LAWLEY,WA,3,,Within 10 metres,,BV1P
+10000057,-19.26238,146.8108,Adjacent to Water Reservoir 382 Walker Street Townsville City,QLD,4,,Within 10 metres,,LR2H
+10000058,-31.993652,115.940879,13-39 Pilbara Street Welshpool,WA,3,,Within 10 metres,,BV1P
+10000059,-31.686222,115.736681,Construction site Mitchell Freeway extension Clarkson,WA,4,,Within 10 metres,,BV1K
+10000060,-37.852314,144.607033,772 Ballan Rd WYNDHAM VALE,VIC,2,,Within 10 metres,,KX3O
+10000061,-27.679672,150.913331,Opal Creek Feedlot Lot 154 New Dunmore Rd DUNMORE,QLD,5,,Within 10 metres,,MT9L
+10000062,-20.229167,140.139444,Lot 1 Burke Development Rd DUGALD RIVER,QLD,5,,Within 10 metres,,JR5A
+10000063,-33.725488,150.987883,Cnr Showground Access Rd and Showground Rd CASTLE HILL,NSW,2,,Within 10 metres,,MV9L
+10000064,-37.842539,145.26947,Station Radio Site Station St BAYSWATER,VIC,2,,Within 10 metres,,LX1N
+10000065,-33.23591,151.42121,18 Burnet Rd WARNERVALE,NSW,2,2259,Within 10 metres,,NV7B
+10000066,-37.963172,145.127531,66-78 Tootal Rd SPRINGVALE,VIC,2,,Within 10 metres,,LX1M
+10000067,-19.257958,146.733961,Site 1 34-38 Webb Dr BOHLE,QLD,4,,Within 10 metres,,LR2G
+10000068,-19.25715,146.734078,Site 2 34-38 Webb Dr BOHLE,QLD,4,,Within 10 metres,,LR2G
+10000069,-19.256447,146.734242,Site 3 34-38 Webb Dr BOHLE,QLD,4,,Within 10 metres,,LR2G
+10000070,-31.901051,115.917644,30 Embleton Ave EMBLETON,WA,3,,Within 10 metres,,BV1P
+10000071,-34.451747,150.842883,1 Hargreaves St UNANDERRA,NSW,2,,Within 10 metres,,MW3H
+10000072,-27.505903,152.983242,66 Harts Rd INDOOROOPILLY,QLD,2,,Within 10 metres,,NT8L
+10000073,-33.443494,151.328519,Point Clare Public School Cnr Brisbane Water Dr and Takari Ave POINT CLARE,NSW,2,,Within 10 metres,,NV7F
+10000074,-26.778261,150.690619,DGPS Site Warrego Hwy 8km SE of CHINCHILLA,QLD,5,,Within 10 metres,,MT6O
+10000075,-35.292928,148.211089,1 Gocup Rd TUMUT,NSW,4,,Within 10 metres,,MW4E
+10000076,-35.193465,149.149879,Cnr Mapleton and Flemington Rds FRANKLIN,ACT,4,,Within 10 metres,,MW5A
+10000077,-16.509786,145.461872,87-109 Port Douglas Rd PORT DOUGLAS,QLD,4,,Within 10 metres,,LQ1J
+10000078,-34.268577,146.031738,11 Nelson Dr GRIFFITH,NSW,4,,Within 10 metres,,LW2E
+10000079,-28.705778,151.787078,846 Nundubbermere Rd STANTHORPE,QLD,4,,Within 10 metres,,NU1L
+10000080,-36.884244,144.210728,Ravenswood Interchange Midland Hwy BENDIGO,VIC,4,,Within 10 metres,,KW9M
+10000083,-27.80145,153.2486,Construction Site River Run Circuit ORMEAU HILLS,QLD,2,,Within 10 metres,,NT9M
+10000084,-38.04036,145.21577,1-7 Vision St DANDENONG SOUTH,VIC,2,,Within 10 metres,,LX4A
+10000085,-38.03522,145.19963,18-24 Villas Rd DANDENONG SOUTH,VIC,2,,Within 10 metres,,LX4A
+10000086,-36.355026,146.323689,62-68 Ovens St Wangaratta,VIC,4,,Within 10 metres,,LW8F
+10000087,-36.36583,146.304625,Newman St Wangaratta,VIC,4,,Within 10 metres,,LW8F
+10000088,-32.551439,151.207428,Waste Depot Chimney Dyrring Rd Fern Gully,NSW,4,,Within 10 metres,,NV4I
+10000089,-33.719478,150.916725,View Street THE PONDS,NSW,2,,Within 10 metres,,MV9L
+10000090,-28.364497,116.668647,Deflector Mine Morawa-Yalgoo Road (2.5km SSW of) YALGOO,WA,5,,Within 10 metres,,BU2G
+10000091,-37.8222,144.9661,Oaks Southbank 57-61 City Road SOUTHBANK,VIC,2,,Within 10 metres,,KX3P
+10000092,-36.501472,148.309767,VHA COW Leisure Centre Car Park Friday Drive THREDBO,NSW,4,,Within 10 metres,,MW7J
+10000093,-19.258867,146.815202,SES Reg Office City Point 101 Sturt St TOWNSVILLE,QLD,4,,Within 10 metres,,LR2H
+10000094,-33.912798,151.2118,87 - 103 Epsom Rd ROSEBURY,NSW,2,,Within 10 metres,,NV7M
+10000095,-37.801719,144.735611,1 Doriemus Dr TRUGANINA,VIC,2,,Within 10 metres,,KX3O
+10000096,-37.975073,144.349602,"Marngoneet Correctional Centre, Karrenga 1200 Bacchus Marsh Road Lara",VIC,2,,Within 10 metres,,KX3N
+10000097,-37.816491,144.969434,Forum Theatre Corner Russell and Flinders Streets Melbourne,VIC,2,,Within 10 metres,,KX3P
+10000098,-27.758156,153.232214,32-34 Binary Street Yatala,QLD,2,,Within 10 metres,,NT9M
+10000099,-27.7917,152.72621,NBN Co Site 115 - 117 Mollenhauers Road Peak Crossing,QLD,2,,Within 100 metres,,NT8O
+100001,-38.248652,144.605442,Telstra/Vodafone Site Highfields Queenscliff-Portarlington Rd MARCUS HILL,VIC,2,3222,Within 100 metres,23,KX6G
+10000100,-27.69124,152.74406,NBN Co Site 46 Hughes Road Purga,QLD,2,,Within 100 metres,,NT8K
+10000101,-37.55806,144.86984,NBN Co Site 740 Mt Ridley Road Mickleham,VIC,2,,Within 100 metres,,KX3L
+10000102,-37.40485,144.7612,NBN Co Site 148 Chintin Road Monegeetta,VIC,2,,Within 100 metres,,KX3H
+10000103,-35.310654,149.1899,18/20 Brindabella Circuit Canberra Airport,ACT,4,,Within 10 metres,,MW5E
+10000104,-32.31203,115.853733,NBN Co Site Lot 819 Doghill Road Baldivis,WA,3,,Within 10 metres,,BV4H
+10000105,-22.905925,118.922478,Mining Area C Terminal  NEWMAN,WA,5,,Within 10 metres,,CS1P
+10000106,-12.387858,130.851172,33 Progress Dr Coconut Grove,NT,4,,Within 10 metres,,GO7H
+10000107,-38.17653,146.26095,Moe Service Centre and Library 19 George St Moe,VIC,4,,Within 10 metres,,LX5B
+10000108,-31.442777,116.076959,NBNCo Lot 504 Great Northern Highway Chittering,WA,4,,Within 10 metres,,BV2E
+10000109,-31.921019,115.869778,Mount Lawley Senior High School 65 Woodsome Street Mount Lawley,WA,3,,Within 10 metres,,BV1P
+10000110,-34.960675,138.546775,Motorola Warehouse 2/59-63 Mooringe Avenue Plympton,SA,3,,Within 10 metres,,IW3O
+10000111,-34.920567,138.627894,Motorola Solutions Australia 2/54 Sydenham Road Norwood,SA,3,,Within 10 metres,,IW3O
+10000112,-31.660009,115.740157,NBNCo 2186 Wanneroo Road Nowergup,WA,4,,Within 10 metres,,BV1K
+10000113,-31.848787,116.064938,NBNCo Lot 342 Old Toodyay Road Red Hill,WA,3,,Within 10 metres,,BV2M
+10000114,-31.90191,152.53354,"Optus monopole, Taree Cundletown 17301 Pacific Highway CUNDLETOWN",NSW,4,,Within 10 metres,,NV2O
+10000117,-12.538495,130.919425,INPEX Tower off Wickham Point Road BLAYDIN POINT,NT,4,,Within 10 metres,,GO7L
+10000118,-27.98628,153.410894,Target Southport Cnr Ferry and Benowa Rd Southport,QLD,2,,Within 10 metres,,NT9N
+10000119,-31.951078,115.889069,Perth Stadium Victoria Park Dr Burswood,WA,3,,Within 10 metres,,BV1P
+10000120,-34.036375,150.76302,Ultimate Karting 40 Anderson Rd Smeaton Grange,NSW,2,,Within 10 metres,,MW3D
+10000121,-27.508549,152.971234,35 Victoria Ave Chelmer,QLD,2,,Within 10 metres,,NT8L
+10000122,-27.801404,153.248339,River Run Circuit Ormeau Hills,QLD,2,,Within 10 metres,,NT9M
+10000123,-27.829237,153.29689,Nambucca Cres  Pimpama,QLD,2,,Within 10 metres,,NT9N
+10000124,-27.824605,153.328912,Gainsborough Green Yawalpah Rd Pimpama,QLD,2,,Within 10 metres,,NT9N
+10000125,-27.91047,153.2681,Riverstone Crossing Upper Coomera,QLD,2,,Within 10 metres,,NT9N
+10000126,-27.721064,153.164475,The Vale Ridgevale Blvd Holmview,QLD,2,,Within 10 metres,,NT9I
+10000127,-27.889897,153.366495,Serenity Cove Serenity Cove Serenity Blvd Helensvale,QLD,2,,Within 10 metres,,NT9N
+10000128,-37.663983,145.00737,CityLife Church Whittlesea 70 Kingsway Drive Lalor,VIC,2,,Within 10 metres,,LX1I
+10000129,-27.420085,153.036127,19 - 23 Felix St Lutwyche,QLD,2,,Within 10 metres,,NT9E
+10000130,-33.726148,150.98203,Inflatable World Castle Hill 3/18 Anella Ave Castle Hill,NSW,2,,Within 10 metres,,MV9L
+10000131,-31.898053,152.458595,Inflatable World Taree 47 Muldoon St Taree,NSW,4,,Within 10 metres,,NV2N
+10000132,-27.301312,153.016877,Construction Site Gateway Mwy and Bruce Hwy Merge BALD HILLS,QLD,2,,Within 10 metres,,NT9E
+10000133,-27.476389,153.0169,52 Merivale St SOUTH BRISBANE,QLD,2,,Within 10 metres,,NT9E
+10000134,-35.270927,149.134183,Cnr Girrahween and Torrens Sts BRADDON,ACT,4,,Within 10 metres,,MW5E
+10000135,-35.271935,149.132599,27 Lonsdale St BRADDON,ACT,4,,Within 10 metres,,MW5E
+10000136,-37.819175,145.121139,Woolworths Box Hill Cnr Main Street & Station Street Box Hill,VIC,2,,Within 10 metres,,LX1M
+10000137,-34.92258,138.616404,16 - 17 Dequetteville Terrace Kent Town,SA,3,,Within 10 metres,,IW3O
+10000138,-37.914,145.132754,21 Wellington Rd Clayton,VIC,2,,Within 10 metres,,LX1M
+10000139,-38.382962,142.481536,Warrnambool Hotel Cnr Koroit and Kepler Streets Warrnambool,VIC,4,,Within 10 metres,,KX4F
+10000140,-16.481053,145.422038,Transfer Station & Landfill Lot 170 Killaloe Dump Rd Killaloe,QLD,4,,Within 10 metres,,LQ1F
+10000141,-31.956417,115.845242,10 Bellevue Terrace West Perth,WA,3,,Within 10 metres,,BV1P
+10000142,-31.278384,119.367979,"Watpac Site, Cornishman Mine Forrestania Southern Cross Road Southern Cross",WA,5,,Within 100 metres,,CV2F
+10000143,-37.8189,144.9751,Circus Oz Birrarung Marr MELBOURNE,VIC,2,,Within 10 metres,,KX3P
+10000144,-33.963767,151.223457,1891 Botany Road Matraville,NSW,2,,Within 10 metres,,NV7M
+10000145,-37.799525,144.953431,46 Villiers Street NORTH MELBOURNE,VIC,2,,Within 10 metres,,KX3P
+10000146,-27.471337,153.028472,Crane 2 111 Mary Street BRISBANE,QLD,2,,Within 10 metres,,NT9E
+10000147,-27.471498,153.028268,Crane 1 111 Mary Street BRISBANE,QLD,2,,Within 10 metres,,NT9E
+10000148,-31.949303,115.863829,97 Stirling Street Northbridge,WA,3,,Within 10 metres,,BV1P
+10000149,-36.796783,146.696959,Lake Buffalo Node Off Mt Buggery Track Dandongadale,VIC,4,,Within 10 metres,,LW8O
+10000150,-29.965053,138.046403,20 Mile Hill (6.3km N of) WITCHELINA STATION,SA,5,,Within 10 metres,,IU6M
+10000151,-33.233033,135.203321,Lookout Hill (15km SE of) HILTABA HOMESTEAD,SA,5,,Within 10 metres,,HV9A
+10000152,-27.431569,153.032556,12 Bonython Street WINDSOR,QLD,2,,Within 10 metres,,NT9E
+10000153,-27.931735,153.394585,"Waterpoint Building 5 Harbourside Court Biggera Waters, 4216",QLD,2,,Within 10 metres,,NT9N
+10000154,-32.250277,115.944768,NBN Co Site 264 Gossage Road Oldbury,WA,3,,Within 10 metres,,BV4H
+10000155,-32.321417,116.00283,"NBN Co Site Lot 47, 217 Shanley Road Mardella",WA,3,,Within 10 metres,,BV5E
+10000156,-27.74811,153.08441,NBN Co 68-78 Holloway Road Chambers Flat,QLD,2,,Within 10 metres,,NT9I
+10000157,-37.685169,144.461871,6 Woolpack Road Bacchus Marsh,VIC,2,,Within 10 metres,,KX3J
+10000158,-27.72451,153.29724,NBN Co 168 Loves Road Woongoolba,QLD,2,,Within 10 metres,,NT9J
+10000159,-27.8396,153.11489,NBN Co 59-67 Pine Forest Way Tamborine,QLD,2,,Within 10 metres,,NT9M
+10000160,-38.06505,144.31321,NBNCo 200 Evans Road Lovely Banks,VIC,2,,Within 10 metres,,KX6B
+10000161,-36.3814,145.3981,Shepparton Police Station 155 Welsford Street SHEPPARTON,VIC,4,,Within 10 metres,,LW7F
+10000162,-37.823926,145.294709,Trend Windows and Doors Complex 92 Canterbury Road Bayswater North,VIC,2,,Within 10 metres,,LX1N
+10000163,-32.19291,115.97139,NBN Co Site Lot 600 Hopkinson Road HILBERT,WA,3,6122,Within 10 metres,,BV4D
+10000164,-32.187796,115.879435,"NBN Co Site NBN Co Site, 182 Wandi Drive Wandi",WA,3,,Within 10 metres,,BV4D
+10000165,-32.19445,115.91633,NBN Co Site 83 Pony Place Oakford,WA,3,,Within 10 metres,,BV4D
+10000166,-32.17354,115.902752,NBN Co Site 358 Taylor Road FORRESTDALE,WA,3,6112,Within 10 metres,,BV4D
+10000167,-32.21542,115.95081,NBN Co Site 400 Kargotich Road Oakford,WA,3,,Within 10 metres,,BV4D
+10000168,-32.03351,116.124627,NBN Co Site 65 McCorkill Road Pickering Brook,WA,3,,Within 10 metres,,BV5A
+10000169,-32.412046,115.804574,NBN Co Site 301 Amarillo Drive Karnup,WA,4,,Within 10 metres,,BV4H
+10000170,-32.376489,115.814226,NBN Co Site Lot 33 Foster Road Baldivis,WA,4,,Within 10 metres,,BV4H
+10000171,-35.230622,138.778027,NBN Co 94 Phillips Hill Road Bull Creek,SA,4,,Within 10 metres,,IW6D
+10000172,-35.189136,138.837274,NBN Co 121 Pound Road Macclesfield,SA,3,,Within 10 metres,,IW6D
+10000173,-35.111937,139.034933,"NBN Co NBN Co Site, 1176 Back Callington Rd Callington",SA,4,5254,Within 10 metres,,JW4A
+10000174,-35.074294,139.018679,NBN Co 2039 Old Princess Highway Kanmantoo,SA,4,,Within 10 metres,,JW4A
+10000175,-35.143418,138.886443,NBN Co Lot 301 Long Valley Road Bugle Ranges,SA,3,,Within 10 metres,,IW6D
+10000176,-33.36302,151.29404,NBNCo 790 Wisemans Ferry Road Somersby,NSW,2,,Within 10 metres,,NV7F
+10000177,-35.277556,149.114147,Cnr Clunies Ross and Dickson Road Acton,ACT,4,,Within 10 metres,,MW5E
+10000178,-27.482915,153.000396,Soko 17-21 Duncan St WEST END,QLD,2,,Within 10 metres,,NT8H
+10000179,-37.9661,145.0564,2-6 Railway Road CHELTENHAM,VIC,2,,Within 10 metres,,LX1M
+10000182,-37.39875,144.8839,NBN Co 85 Fairfield Lane Darraweit Guim,VIC,2,,Within 10 metres,,KX3H
+10000183,-33.27049,151.38682,NBNCo 213 Yarramalong Road Wyong Creek,NSW,2,,Within 10 metres,,NV7F
+10000184,-33.51751,150.69344,NBNCo 400 Comleroy Road Kurrajong,NSW,2,,Within 10 metres,,MV9K
+10000185,-38.390265,145.088217,NBN Co Site 3450 Frankston - Flinders Road MERRICKS,VIC,2,,Within 10 metres,,LX4E
+10000186,-38.256158,145.10479,NBNCo 700 Derril Road Moorooduc,VIC,2,,Within 10 metres,,LX4E
+10000187,-38.34,145.081063,NBNCo 325 Myers Road Merricks North,VIC,2,,Within 10 metres,,LX4E
+10000188,-38.33551,145.11954,NBNCo 234 Myers Road Balnarring,VIC,2,,Within 10 metres,,LX4E
+10000189,-38.27529,145.13643,NBN Co 1084 Stumpy Gully Road MOOROODUC,VIC,2,3933,Within 10 metres,,LX4E
+10000190,-37.96161,145.3609,NBN Co Site 505 Berwick Road Narre Warren East,VIC,2,,Within 10 metres,,LX1N
+10000191,-38.032015,145.401169,NBNCo 368 ONeil Road Officer,VIC,2,,Within 10 metres,,LX4B
+10000192,-38.20571,145.18419,NBNCo 127 Grant Road BAXTER,VIC,2,3911,Within 10 metres,,LX4A
+10000193,-38.23672,145.23306,NBNCo 44 Bungower Road Somerville,VIC,2,,Within 10 metres,,LX4A
+10000194,-38.17702,145.2548,NBNCo 137-145 Smiths Lane Pearcedale,VIC,2,,Within 10 metres,,LX4B
+10000195,-38.14076,145.42484,NBNCo Cardinia Road Cardinia,VIC,2,,Within 10 metres,,LX4B
+10000196,-38.16073,145.26126,NBNCo 28 Scott Road Cranbourne South,VIC,2,,Within 10 metres,,LX4B
+10000197,-38.38987,145.01965,NBNCo 83 Shoreham Road Red Hill South,VIC,2,,Within 10 metres,,LX4E
+10000198,-38.40334,144.86427,NBNCo 433 Truemans Road Boneo,VIC,2,,Within 10 metres,,KX6H
+10000199,-27.632431,153.252804,Heinemann Water Tank Site 275 Heinemann Rd Mt. Cotton,QLD,2,,Within 10 metres,,NT9J
+100002,-37.72855,145.222007,Optus/Vodafone Site Water Tank Blooms Rd NORTH WARRANDYTE,VIC,2,3113,Within 10 metres,116,LX1I
+10000200,-27.648474,153.305469,Serpentine Creek Site 153 Serpentine Creek Rd Redland Bay,QLD,2,,Within 10 metres,,NT9J
+10000201,-31.946559,115.852534,Perth Police Complex 2 Fitzgerald Street NORTHBRIDGE,WA,3,,Within 10 metres,,BV1P
+10000202,-33.770925,151.078101,7-9 Cliff Rd EPPING,NSW,2,,Within 10 metres,,NV7M
+10000203,-33.904697,151.200484,12-14 Mandible St ALEXANDRIA,NSW,2,,Within 10 metres,,NV7M
+10000204,-13.624853,131.456751,Douglas Station via 3377 Stuart Hwy DOUGLAS DALY,NT,5,,Within 10 metres,,GP2J
+10000205,-36.894922,144.803436,DGPS Site McNichols Ln COSTERFIELD,VIC,4,,Within 10 metres,,KW9P
+10000206,-27.486331,152.993951,37 Archer St TOOWONG,QLD,2,,Within 10 metres,,NT8H
+10000207,-26.657943,150.657824,Red Hill 9km NNE of CHINCHILLA,QLD,5,,Within 10 metres,,MT6K
+10000212,-34.860449,146.920003,Matong State Forest Deepwater Rd MATONG,NSW,4,2371,,171,LW2P
+10000213,-32.545223,137.718623,COW Trailer Near El Alamein Camp Cultana,SA,4,,Within 100 metres,,IV5K
+10000215,-32.98157,121.6444,Telstra Site LOT 123 Coolgardie-Esperance Highway Salmon Gums,WA,5,,Within 10 metres,,DV4O
+10000216,-35.02197,149.87236,Telstra Site 3723 Windellama Road Windellama,NSW,4,,Within 10 metres,,MW5D
+10000217,-37.787878,145.113122,3 Pettys Lane DONCASTER,VIC,2,,Within 10 metres,,LX1M
+10000218,-33.874539,151.207689,Cnr Pitt and Bathurst Sts SYDNEY,NSW,2,,Within 10 metres,,NV7M
+10000219,-26.960401,150.477901,Orana Ponds via Chinchilla Tara Rd CROSSROADS,QLD,5,,Within 10 metres,,MT6N
+10000220,-33.120501,148.957301,2321 Mitchell Hwy MOLONG,NSW,4,,Within 10 metres,,MV7D
+10000221,-29.502801,153.201201,72 McIntyres Ln GULMARRAD,NSW,4,,Within 10 metres,,NU6I
+10000222,-28.470468,153.518914,COW Central CCT BYRON  BAY,QLD,4,,Within 10 metres,,NU3G
+10000223,-42.812265,147.245496,Tasmanet Rooftop Site 11-13 Coraki St CHIGWELL,TAS,4,,Within 10 metres,,LY9M
+10000224,-43.030524,147.048934,Tasmanet Rooftop Site 40 Main Rd Huonville,TAS,4,,Within 10 metres,,LZ3A
+10000225,-41.19808,147.53018,NBN Co 190 Davies Road SCOTTSDALE,TAS,4,7260,Within 10 metres,,LY6C
+10000226,-41.30509,147.017546,"NBN Co NBN Co Site, 228 Los Angelos Rd SWAN BAY",TAS,4,,Within 10 metres,,LY6E
+10000227,-26.70656,152.94919,NBN Co 70 Citrus Road PALMWOODS,QLD,4,4555,Within 10 metres,,NT5L
+10000228,-26.54785,153.01418,NBN Co 267 Valdora Road Valdora,QLD,4,,Within 10 metres,,NT6I
+10000229,-26.57672,152.94514,NBN Co 72-74 Bracken Fern Road Yandina,QLD,4,,Within 10 metres,,NT5L
+10000230,-26.58863,153.00966,NBN Co 184 Kirra Road Maroochy River,QLD,4,,Within 10 metres,,NT6I
+10000231,-26.60806,152.88304,NBN Co 96 Willandra Place Kureelpa,QLD,4,,Within 10 metres,,NT5L
+10000232,-26.59102,152.91189,NBN Co 526 Image Flat Road Kureelpa,QLD,4,,Within 10 metres,,NT5L
+10000233,-26.71,153.01285,NBN Co 711 Ilkley Road TANAWHA,QLD,4,4554,Within 10 metres,,NT6I
+10000234,-26.67285,152.99753,NBN Co 2 Nambour Connection Road Woombye,QLD,4,,Within 10 metres,,NT5L
+10000235,-26.44431,153.04512,NBN Co 22 Wills Road Weyba Downs,QLD,4,,Within 10 metres,,NT6E
+10000236,-26.45485,153.01315,NBN Co 811 Eumundi Noosa Road Doonan,QLD,4,,Within 10 metres,,NT6E
+10000237,-26.62655,152.89194,NBN Co Site 32 De Vere Road KUREELPA,QLD,4,4560,Within 10 metres,,NT5L
+10000238,-33.796412,151.139463,Site shed 1 Epping Road North Ryde,NSW,2,,Within 10 metres,,NV7M
+10000239,-27.831996,152.713017,NBN Co Site Lot 102 Forsyths Road Peak Crossing,QLD,4,4306,Within 10 metres,,NT8O
+10000240,-27.81112,152.6765,NBN Co Site 118 Queen Street Harrisville,QLD,4,,Within 10 metres,,NT8O
+10000241,-27.53101,152.7231,NBN Co Site 179 - 201 Russells Road Pine Mountain,QLD,2,,Within 10 metres,,NT8K
+10000242,-27.7432,152.70847,NBN Co Site 55 Bill Morrow Road Peak Crossing,QLD,2,,Within 10 metres,,NT8K
+10000243,-27.52709,152.74382,NBN Co Site 739 Riverside Drive Pine Mountain,QLD,2,,Within 10 metres,,NT8K
+10000244,-27.889463,152.639444,NBN Co 217 Kengoon Road Kents Lagoon,QLD,4,,Within 10 metres,,NT8O
+10000245,-21.148912,148.721528,NBN Co 4 Williams Road Pinnacle,QLD,4,,Within 10 metres,,MR7C
+10000246,-28.321386,153.354424,NBN Co 452 Numinbah Road Nobbys Creek,NSW,2,,Within 10 metres,,NU3F
+10000247,-32.135394,115.92428,DGPS Transmitter Nicholson Road PIARA WATERS,WA,3,,Within 10 metres,,BV4D
+10000248,-19.573954,147.397313,50 Hoey St AYR,QLD,4,,Within 10 metres,,LR3J
+10000249,-32.208152,115.809933,Alcoa Kwinana Residue Storage Area N Cnr Abercrombie & Anketell Roads Hope Valley,WA,3,,Within 10 metres,,BV4D
+10000250,-28.243222,153.371089,NBN Co Site Tomewin Mountain Road Currumbin Valley,QLD,2,,Within 10 metres,,NU3B
+10000251,-34.70022,150.10222,NBN Co Site 209 Old Wingello Road TALLONG,NSW,4,2579,Within 10 metres,,MW3I
+10000252,-28.76348,153.27072,NBN Co Site 360 Booerie Creek Road Booerie Creek,NSW,4,,Within 10 metres,,NU3N
+10000253,-37.67658,144.57011,Meltonwest 206 Coburns Road MELTON WEST,VIC,2,,Within 10 metres,,KX3K
+10000254,-37.40944,144.58297,RINGWOOD-V 21 PINE CR RINGWOOD NORTH,VIC,2,,Within 10 metres,,KX3G
+10000255,-27.689563,153.211644,Palm Lake Resort 272 Fryar Road Eagleby,QLD,2,,Within 10 metres,,NT9I
+10000256,-32.548485,115.703059,Halls Head Central Shopping Centre 14 Guava Way Halls Head,WA,4,,Within 10 metres,,BV4K
+10000258,-41.579344,148.182319,TasNetwork Depot 20 Clive Street ST MARYS,TAS,4,,Within 10 metres,,MY4I
+10000259,-42.380311,147.290553,TasNetworks Jericho Town Hall Jericho Road JERICHO,TAS,4,7120,Within 10 metres,,LY9F
+10000260,-34.475431,150.913186,Pilot Station 91 Foreshore Road Port Kembla,NSW,2,,Within 10 metres,,MW3H
+10000262,-30.037075,120.66805,"GoldNet Mast off Davyhurst Goongarrie Road, 51 km SW of Menzies",WA,5,,Within 10 metres,,CU9C
+10000263,-37.798,144.9679,Lygon Court Shopping Centre 380 Lygon Street CARLTON,VIC,2,,Within 10 metres,,KX3P
+10000264,-36.706974,144.31728,Telstra Site 9 Maynard Drive Epsom,VIC,4,,Within 10 metres,,KW9J
+10000265,-24.182717,151.236237,"Telstra Radio Tower Lake Awoonga, 4km north of Boynedale",QLD,4,,Within 10 metres,,NS7A
+10000266,-12.4605,130.96489,3/104 McKinnon Road Pinelands,NT,4,,Within 100 metres,,GO7H
+10000267,-28.645465,153.613883,Roof Top 6 Marvell Street Byron Bay,NSW,4,,Within 10 metres,,NU3K
+10000268,-34.860214,150.508392,439 Koloona Drive Watersleigh,NSW,4,,Within 10 metres,,MW3O
+10000269,-37.1924,140.889014,Fire Tower Off Cumaum Forest Road Cumaum,SA,4,,Within 10 metres,,JX2D
+10000270,-22.514006,132.754236,Power Station Lot 748 Laramba,NT,5,,Within 10 metres,,GS3L
+10000271,-33.878681,151.210173,35-45 Wentworth Ave SYDNEY,NSW,2,,Within 10 metres,,NV7M
+10000272,-26.20426,152.44295,Telstra Exchange 9 Little Widgee Road Widgee,QLD,4,,Within 10 metres,,NT5B
+10000273,-27.78632,153.36421,Telstra Site 29 Pine Street Jacobs Well,QLD,2,,Within 10 metres,,NT9N
+10000274,-34.943738,138.588649,Telstra Site 14 Goodwood Road Wayville,SA,3,,Within 10 metres,,IW3O
+10000275,-35.359869,138.820048,NBN Co 1403 Alexandrina Road Finniss,SA,4,,Within 10 metres,,IW6H
+10000276,-37.542865,145.104367,NBN Co 2105 Plenty Road,VIC,2,3757,Within 10 metres,,LX1I
+10000277,-37.46631,145.07394,NBN Co 417-485 Towts Road Whittlesea,VIC,2,,Within 10 metres,,LX1E
+10000278,-37.48828,145.16531,NBN Co 60 Jacks Creek Road Humevale,VIC,2,,Within 10 metres,,LX1E
+10000279,-32.503014,115.764221,NBN Co Lot 2667 Mulga Drive Parklands,WA,4,,Within 10 metres,,BV4L
+10000280,-31.503369,116.053567,NBNCo 140 Blue Plains Road Chittering,WA,4,,Within 10 metres,,BV2I
+10000281,-31.495066,116.405186,NBNCo 231 (Lot 89) Horshoe Road Coondle,WA,4,,Within 10 metres,,BV2F
+10000282,-31.79838,116.308691,NBNCo Reserve 11625 Lot 2442 Bailup Road WOOROOLOO,WA,4,6885,Within 10 metres,,BV2N
+10000283,-31.768751,116.373023,NBNCo 166 Werribee Road Wundowie,WA,4,,Within 10 metres,,BV2N
+10000284,-31.795572,116.341474,NBN Co Site Lot 7681 Harper Road Wooroloo,WA,4,,Within 100 metres,,BV2N
+10000285,-33.56306,150.20069,NBN Co Cnr Great Western Hwy and Browns Gap Road Hartley,NSW,4,,Within 10 metres,,MV9I
+10000286,-36.89628,149.91335,Splash Coastal Resort Site Lot 40 Elizabeth Street Merimbula,NSW,4,,Within 10 metres,,MW8P
+10000287,-36.88764,149.92625,Splash Lake View Avenue Site 1 Lake View Ave Merimbula,NSW,4,,Within 10 metres,,MW8P
+10000288,-36.8861,149.89722,Splash Hillcrest Site 95-97 Merimbula Drive Merimbula,NSW,4,,Within 10 metres,,MW8P
+10000289,-32.016675,115.936527,Tower Crane 18 Cecil Avenue CANNINGTON,WA,3,,Within 10 metres,,BV4D
+10000290,-37.811099,144.857783,425 Somerville Road West Footscray,VIC,2,,Within 10 metres,,KX3P
+10000291,-32.926,151.76453,Customs House 28 Honeysuckle Drive NEWCASTLE,NSW,3,,Within 10 metres,,NV4P
+10000292,-24.81448,152.222778,972 Rosedale Rd BUNDABERG,QLD,4,,Within 10 metres,,NS8M
+10000293,-28.169722,153.515278,Construction Site Terminal Dr COOLANGATTA,QLD,2,,Within 10 metres,,NU3C
+10000294,-37.813418,144.967861,131 Russell St MELBOURNE,VIC,2,,Within 10 metres,,KX3P
+10000295,-34.845313,138.560571,153 Francis Rd WINGFIELD,SA,3,,Within 10 metres,,IW3O
+10000296,-37.684152,144.948506,75 Northcorp Boulevard Broadmeadows,VIC,2,,Within 10 metres,,KX3L
+10000297,-27.469643,153.09498,"The Cannon  1053 Wynnum Rd  Cannon Hill, 4170",QLD,2,,Within 10 metres,,NT9E
+10000298,-27.77233,152.97818,NBNCo 21-39 Clifton Drive North Maclean,QLD,2,,Within 10 metres,,NT8P
+10000299,-27.8076,153.09282,NBNCo 775 Camp Cable Road Logan Village,QLD,2,,Within 10 metres,,NT9M
+10000300,-27.80138,153.05444,NBNCo 153-167 Missouri Street Jimboomba,QLD,2,,Within 10 metres,,NT9M
+10000301,-27.80109,153.03281,NBNCo 79-87 Nash Road Jimboomba,QLD,2,,Within 10 metres,,NT9M
+10000302,-27.81216,153.08313,NBNCo 94 Travis Road LOGAN VILLAGE,QLD,2,,Within 10 metres,,NT9M
+10000303,-27.78241,153.04282,NBNCo 104-118 Neville Road Stockleigh,QLD,2,,Within 10 metres,,NT9M
+10000304,-27.83854,152.99878,NBNCo 13-43 Redwood Circle Jimboomba,QLD,2,,Within 10 metres,,NT8P
+10000305,-27.909944,153.070513,NBN Co Via Lot 102 Rosehill Court MUNDOOLUN,QLD,2,,Within 10 metres,,NT9M
+10000306,-27.83341,153.0587,NBNCo 2-16 Minugh Road Jimboomba,QLD,2,,Within 10 metres,,NT9M
+10000307,-27.893003,152.931526,NBNCo 72 Saville Road Allenview,QLD,2,4285,Within 10 metres,,NT8P
+10000308,-27.90282,153.03103,NBN Co 1 Barnes Road VERESDALE SCRUB,QLD,2,,Within 10 metres,,NT9M
+10000309,-38.028573,144.345439,NBNCo 270 Elcho Road Lovely Banks,VIC,2,,Within 10 metres,,KX6B
+10000310,-37.97502,144.13996,NBNCo 2699 Midland Highway Lethbridge,VIC,4,,Within 10 metres,,KX3M
+10000311,-31.952744,115.849167,255 St Georges Terrace Perth,WA,3,,Within 10 metres,,BV1P
+10000312,-37.87594,144.6801,UniQlo 250 Heaths Rd HOPPERS CROSSING,VIC,2,,Within 10 metres,,KX3O
+10000313,-23.84144,151.2469,Officeworks Gladstone 57 Hanson Rd GLADSTONE,QLD,4,,Within 10 metres,,NS4M
+10000314,-27.591043,152.87531,17 General Macarthur Place REDBANK,QLD,2,,Within 10 metres,,NT8L
+10000315,-12.396254,130.903874,Shop 3 1 Malak Place MALAK,NT,4,,Within 10 metres,,GO7H
+10000316,-34.687405,138.740317,NBN Co 80 Viney Drive Uleybury,SA,3,,Within 10 metres,,IW3K
+10000317,-34.654471,138.872143,NBN Co Lot 13 Needles Road Williamstown,SA,4,,Within 10 metres,,IW3L
+10000318,-34.708842,138.561055,NBN Co 72 Curnow Road Waterloo Corner,SA,3,,Within 10 metres,,IW3K
+10000319,-34.47169,138.68752,NBN Co 1071 Templars Road Wasleys,SA,4,,Within 10 metres,,IW3G
+10000320,-34.674873,138.568744,NBN Co 92 Penfield Road Virgina,SA,3,,Within 10 metres,,IW3K
+10000321,-34.654386,138.770915,NBN Co 398 Alexander Avenue Bibaringa,SA,4,,Within 10 metres,,IW3L
+10000322,-34.610675,138.836717,NBN Co Gawler Golf Club 129 Williamstown Road Sandy Creek,SA,4,,Within 10 metres,,IW3L
+10000323,-34.537613,138.753437,NBN Co 12-14 Flett Road Roseworthy,SA,4,,Within 10 metres,,IW3L
+10000324,-34.724066,138.768676,NBN Co Lot 3 Precolumb Road One Tree Hill,SA,3,,Within 10 metres,,IW3L
+10000325,-34.590092,138.599411,NBN Co 1194 Boundary Road Lewiston,SA,4,,Within 10 metres,,IW3K
+10000326,-34.731952,138.800172,NBN Co Lot 91 Kersbrook Road Humbug Scrub,SA,3,,Within 10 metres,,IW3L
+10000327,-34.60133,138.91545,NBN Co 28 Mclaren Hill Road ALTONA,SA,4,5351,Within 10 metres,,IW3L
+10000340,-27.632556,152.698556,RAAF Base Iroquois Ave Amberley,QLD,2,,Within 10 metres,,NT8K
+10000341,-31.67072,116.257399,NBNCo 531 McKnoe Drive Morangup,WA,4,,Within 10 metres,,BV2J
+10000342,-31.745919,116.232371,NBNCo Lot 102 Falls Heights Gidgegannup,WA,4,6083,Within 10 metres,,BV2I
+10000343,-31.687903,116.314608,NBNCo 45 Morangup Road Morangup,WA,4,,Within 10 metres,,BV2J
+10000344,-31.827192,116.250782,NBNCo 2000 (Lot 2507) Sertorio Road Chidlow,WA,4,,Within 10 metres,,BV2M
+10000345,-31.868269,116.183015,NBNCo 1240 Osborne Street Stoneville,WA,3,,Within 10 metres,,BV2M
+10000346,-31.902114,116.219045,NBNCo Reserve 6203 Cairn Street Sawyers Valley,WA,4,,Within 10 metres,,BV2M
+10000347,-31.860314,115.984962,NBNCo 4165 West Swan Road,WA,3,6055,Within 10 metres,,BV1P
+10000348,-31.80684,116.058082,NBNCo 158 Hardwick Road Millendon,WA,3,,Within 10 metres,,BV2M
+10000349,-31.826376,116.017926,NBNCo 766 Great Northern Highway Herne Hill,WA,3,,Within 10 metres,,BV2M
+10000350,-27.693798,153.150435,27 Clarendon Ave Bethania,QLD,2,,Within 10 metres,,NT9I
+10000351,-27.208505,152.988758,Saltwater Circuit (NW cnr of)  Bruce Highway and Boundary Road NARANGBA,QLD,2,,Within 10 metres,,NT8D
+10000352,-41.539468,147.173956,Midlands Hwy  (1.5km S of Evandale Rd roundabout) BREADALBANE,TAS,4,,Within 10 metres,,LY6I
+10000353,-38.11,145.2819,Cranbourne Park Shopping Centre High Street CRANBOURNE,VIC,2,,Within 10 metres,,LX4B
+10000354,-33.866807,151.207134,Centre of SLR APS (in front of) 333 George Streeet SYDNEY,NSW,2,,Within 10 metres,,NV7M
+10000355,-33.874087,151.164016,APS test track cnr City Link West and Catherine Street LILYFIELD,NSW,2,,Within 10 metres,,NV7M
+10000356,-37.809387,144.919341,ACFS E-Depot Melbourne 55-89 Coode Road WEST MELBOURNE,VIC,2,,Within 10 metres,,KX3P
+10000358,-36.179733,146.946303,4 Sage Court Baranduda,VIC,4,,Within 10 metres,,LW8D
+10000359,-36.139683,146.894119,15 Cartwright Street Wodonga,VIC,4,,Within 10 metres,,LW8D
+10000360,-28.0178,153.4299,Crowne Plaza Surfers Paradise 2807 Gold Coast Highway SURFERS PARADISE,QLD,2,,Within 10 metres,,NU3B
+10000361,-29.306817,115.092972,Comms Hut 353 Pye Road Mount Adams,WA,4,,Within 10 metres,,BU4E
+10000364,-37.9158,145.0608,Glen Eira Sports and Aquatic Centre 200 East Boundary Road BENTLEIGH EAST,VIC,2,,Within 10 metres,,LX1M
+10000365,-27.62997,153.09508,KurabyWoodridge 10 Laurel Street WOODRIDGE,QLD,2,,Within 10 metres,,NT9I
+10000366,-18.882419,118.871016,"Mobile Offshore Drilling Unit Ocean Monarch, 160 km North of Port Hedland",WA,5,,Within 10 metres,,
+10000367,-34.832863,138.569488,Prexy Pole site Salisbury Highway WINGFIELD,SA,3,,Within 10 metres,,IW3O
+10000368,-34.779494,138.595204,OS310 Blue site  Port Wakefield Road PARAFIELD GARDENS,SA,3,,Within 10 metres,,IW3O
+10000369,-34.80796,138.596896,OS304 Red site Port Wakefield Road MAWSON LAKES,SA,3,,Within 10 metres,,IW3O
+10000370,-34.81674,138.598028,OS302 Green site Port Wakefield Road DRY CREEK,SA,3,,Within 10 metres,,IW3O
+10000371,-26.63087,120.25151,Telstra Tower Mine Site 5km South of Wiluna,WA,5,,Within 10 metres,,CT6J
+10000372,-32.98712,151.671296,3 Violet Town Rd MOUNT HUTTON,NSW,3,,Within 10 metres,,NV4O
+10000373,-37.671011,144.84998,Carpark Building off Arrival Drive MELBOURNE AIRPORT,VIC,2,,Within 10 metres,,KX3L
+10000374,-33.918223,151.189052,200 Bourke Rd ALEXANDRIA,NSW,2,,Within 10 metres,,NV7M
+10000375,-37.815917,145.258583,Theatre Building Tintern Grammar 90 Alexandra Road Ringwood,VIC,2,,Within 10 metres,,LX1N
+10000377,-28.472028,153.518031,Optus COW - Splendour in the Grass LOT 46 Jones Road  WOOYUNG,NSW,4,,Within 10 metres,,NU3G
+10000378,-34.192732,142.167869,VMAT Site 45 Ninth Street Mildura,VIC,4,,Within 10 metres,,KW1A
+10000379,-38.305111,145.186112,VicTrack Radio Hut 45m N of Hastings Railway Station Hastings,VIC,2,,Within 10 metres,,LX4E
+10000380,-37.7626,144.9619,26 Breese Street BRUNSWICK,VIC,2,,Within 10 metres,,KX3P
+10000381,-28.067858,117.844671,Broadcast Site 119 Criddle Street MOUNT MAGNET 119 Criddle Street MOUNT MAGNET,WA,5,,Within 10 metres,,BU3D
+10000382,-32.5344,115.7187,3 Mandurah Terrace Mandurah,WA,4,,Within 10 metres,,BV4K
+10000383,-31.958963,115.920074,Tranby Primary School 99 Acton Avenue Rivervale,WA,3,,Within 10 metres,,BV1P
+10000384,-27.564285,152.996834,58 Reginald St ROCKLEA,QLD,2,,Within 10 metres,,NT8L
+10000385,-41.31553,147.37228,Telstra Site off Camden Hill Road Targa,TAS,4,,Within 10 metres,,LY6F
+10000386,-41.38258,147.29978,Telstra Site 82 Patersonia Road Nunamara,TAS,4,,Within 10 metres,,LY6F
+10000387,-41.87357,146.82809,Telstra Site 50 Cramps Bay Road Cramps Bay,TAS,4,,Within 10 metres,,LY5P
+10000388,-43.24026,147.10193,Telstra Site Abels Bay Road Abels Bay,TAS,4,,Within 10 metres,,LZ3A
+10000389,-33.870905,150.957675,3/117 The Crescent Fairfield,NSW,2,,Within 10 metres,,MV9P
+10000390,-27.542505,153.073407,Mount Gravatt Outlook Mount Gravatt Outlook Drive Mount Gravatt,QLD,2,,Within 10 metres,,NT9I
+10000391,-34.712774,138.57607,CAM851 Port Wakefield Road BURTON,SA,3,,Within 10 metres,,IW3K
+10000392,-34.74061,138.5855,OS315 Yellow site  Port Wakefield Road BURTON,SA,3,,Within 10 metres,,IW3K
+10000393,-33.153178,148.169914,Parkes Hospital IBC 2 Morrissey way Parkes,NSW,4,,Within 10 metres,,MV7A
+10000394,-36.10223,150.04632,NBN Co Site 142 Eurobodalla Road Bodalla,NSW,4,,Within 10 metres,,MW9A
+10000395,-28.582723,153.161479,NBN Co 665 Stony Chute Road STONY CHUTE,NSW,4,2480,Within 10 metres,,NU3I
+10000396,-33.710091,151.295176,Optus site Light pole Intersection of Pittwater Road  Wakehurst Parkway NORTH NARRABEEN,NSW,2,,Within 10 metres,,NV7J
+10000397,-28.693321,150.320071,Allandale Boggabilla Boggabilla,NSW,4,,Within 10 metres,,MU3J
+10000398,-33.76489,151.015021,cnr Barclay and Perry Streets NORTH ROCKS,NSW,2,,Within 10 metres,,NV7M
+10000399,-33.7101,151.29573,Optus Light Pole Intersection of Pittwater Road and Wakehurst Parkway NORTH NARRABEEN,NSW,2,,Within 10 metres,,NV7J
+10000400,-35.312463,148.064272,St Joseph's Primary Adelong 21-35 Gundagai Street Adelong,NSW,4,,Within 10 metres,,MW4E
+10000401,-36.904439,149.236728,St Joseph's Primary Bombala 31 Queen Street Bombala,NSW,4,,Within 10 metres,,MW8M
+10000402,-36.974128,147.139385,Amateur Site Great Alpine Road MT HOTHAM,VIC,4,,Within 10 metres,,LW9M
+10000403,-37.825152,144.949188,Nike 20 Convention Centre Place SOUTH WHARF,VIC,2,,Within 10 metres,,KX3P
+10000404,-37.680333,145.070431,Nike Uni Hill 2 Janefield Dr BUNDOORA,VIC,2,,Within 10 metres,,LX1I
+10000405,-37.80597,144.997883,28 Victoria Cresent ABBOTSFORD,VIC,2,,Within 10 metres,,KX3P
+10000406,-33.844181,151.040499,126-130 Parramatta Rd AUBURN,NSW,2,,Within 10 metres,,NV7M
+10000407,-33.85521,151.162714,Birkenhead Point SC Roseby St DRUMMOYNE,NSW,2,,Within 10 metres,,NV7M
+10000408,-27.929603,153.387342,Nike Harbourtown SC Cnr Brisbane Rd and Oxley Dr BIGGERA WATERS,QLD,2,,Within 10 metres,,NT9N
+10000409,-27.531418,152.947921,DFO 16 Amazons Pl JINDALEE,QLD,2,,Within 10 metres,,NT8L
+10000410,-27.415232,153.079753,DFO 1 Airport Dr BRISBANE AIRPORT,QLD,2,,Within 10 metres,,NT9E
+10000411,-33.775158,151.012331,VHA COW 3 Trent Road NORTH ROCKS,NSW,2,,Within 10 metres,,NV7M
+10000412,-20.37413,118.58628,VHA Lattice Tower 6 TAAFFEE Street PORT HEDLAND,WA,5,,Within 10 metres,,CR4G
+10000413,-36.428361,145.396022,Airservices NDB Site Shepparton Airport SHEPPARTON,VIC,4,,Within 10 metres,,LW7F
+10000414,-27.499917,153.4533,Airservices ADSB Antenna Pole Mt Hardgrave Radar Site NORTH STRADBROKE ISLAND,QLD,4,,Within 10 metres,,NT9J
+10000415,-19.649278,134.190303,Leading Edge Computers 38 Paterson St TENNANT CREEK,NT,5,,Within 10 metres,,HR2I
+10000416,-30.32225,153.116472,Airport Maintenance Hangar Coffs Harbour Airport COFFS HARBOUR,NSW,4,,Within 10 metres,,NU9E
+10000417,-28.837389,153.556333,Ballina Byron Gateway Airport Terminal Southern Cross Drive BALLINA,NSW,4,,Within 10 metres,,NU3O
+10000418,-27.543127,153.239044,48 Weippin St Cleveland,QLD,2,,Within 10 metres,,NT9I
+10000419,-36.580854,149.108037,Boco Rock Wind Farm Avon Lake Road Boco,NSW,4,,Within 10 metres,,MW8I
+10000420,-19.878417,146.633056,QR Site Hervey Street MINGELA,QLD,4,,Within 10 metres,,LR2O
+10000421,-23.132341,150.736853,Shopping Centre 42 Park St YEPPOON,QLD,4,,Within 10 metres,,MS6C
+10000422,-18.9991,144.98033,Telstra Exchange Cassia Court Greenvale,QLD,5,,Within 10 metres,,KR3D
+10000423,-27.426134,152.988367,Gallipoli Barracks Oval 236 Lloyd Street ENOGGERA,QLD,2,,Within 10 metres,,NT8H
+10000424,-21.091478,149.210174,Waratah 18 Skylark St Slade Point,QLD,4,,Within 10 metres,,MR8A
+10000425,-37.874411,144.67845,Myer Werribee Cnr Derrimut & Heaths Rd Werribee,VIC,2,,Within 10 metres,,KX3O
