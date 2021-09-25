@@ -44,7 +44,7 @@ var yourVlSpec = {
                 }
             },
             projection: {
-                type: 'mercator'
+                type: 'conicEqualArea'
             }
         },
         {
@@ -76,7 +76,7 @@ var yourVlSpec = {
             },
 
             projection: {
-                type: 'mercator'
+                type: 'conicEqualArea'
             }
         },
     ]
@@ -88,7 +88,7 @@ var yourVlSpec = {
     //         // url: "data/victoria_site.csv"
     //         url: "data/victoria_site.csv"
     //     },
-    //     projection: { type: "mercator" },
+    //     projection: { type: "conicEqualArea" },
     //     mark: "circle",
     //     encoding: {
     //         longitude: {
