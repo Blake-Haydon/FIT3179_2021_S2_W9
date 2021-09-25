@@ -1,5 +1,4 @@
-// TODO: Remove example diagram
-var yourVlSpec = {
+const VegaLiteSpec = {
     $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
     title: 'Normalised Cell Tower Stations per Suburb in Victoria',
     description: 'The count of cell towers distributed around australia per population (cell towers/person)',
@@ -82,31 +81,6 @@ var yourVlSpec = {
     ]
 
 
-    // {
-    //     data: {
-    //         // USE LESS SITE DATA SO IT DOES NOT CRASH
-    //         // url: "data/victoria_site.csv"
-    //         url: "data/victoria_site.csv"
-    //     },
-    //     projection: { type: "conicEqualArea" },
-    //     mark: "circle",
-    //     encoding: {
-    //         longitude: {
-    //             field: "LONGITUDE",
-    //             type: "quantitative"
-    //         },
-    //         latitude: {
-    //             field: "LATITUDE",
-    //             type: "quantitative"
-    //         },
-    //         size: { value: 10 },
-    //         color: { value: "steelblue" }
-    //     }
-    // },
-
-
-
-
-
 }
-vegaEmbed('#vis', yourVlSpec);
+
+vegaEmbed('#vis', VegaLiteSpec);
