@@ -1,3 +1,9 @@
+// TODO: THINGS TO FINISH OFF FOR ACTUAL ASSIGNMENT
+// 1) How to make a nice tooltip with data that is not many decimal places long (Maybe shorten csv file) 
+// 2) Add hatching for the no cell tower zones
+// 3) Use population rather than area
+// 4) Add interactive scale to only show the dead zones
+
 const VegaLiteSpec = {
     $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
     title: 'Normalised Cell Tower Stations per Suburb in Victoria',
